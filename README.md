@@ -1,4 +1,4 @@
 # Cool tools for school
-This is a sample of the work in progress "Cool tools for school" project.
+See the "Cool tools for school" project documentation (work in progress).
 
 [Project site...](https://ehsomma.github.io/cool-tools-for-school-project/)
